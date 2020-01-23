@@ -1,6 +1,6 @@
 # Homework
 
-This directory provides instructions and skeleton code of programming assigments for this course.
+This directory provides instructions and skeleton code of programming assignments for this course.
 The main goal is to implement an interpreter and a static analyzer for LLVM IR in OCaml.
 
 ## Setup
