@@ -28,7 +28,7 @@ See the [homework page](homework/README.md).
 |1|Introduction||
 |2|Formal Semantics of Programming Languages (1)|HW1|
 |3|Formal Semantics of Programming Languages (2)||
-|4|Concepts in Language-based Security||
+|4|Concepts in Language-based Security|HW2|
 |5|Abstract Interpretation (1)||
 |6|Abstract Interpretation (2)|HW3|
 |7|Design and Implementation of Static Analysis||
