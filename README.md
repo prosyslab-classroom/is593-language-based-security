@@ -15,6 +15,13 @@ This course teaches a series of topics to build safe software systems based on p
 - Midterm: 30%
 - Final: 10%
 
+## Textbook
+- Lecture slides will be provided
+- Xavier Rival and Kwangkeun Y, [Introduction to Static Analysis: an Abstract Interpretation Perspective](https://mitpress.mit.edu/books/introduction-static-analysis), MIT Press, 2020
+
+## Homework
+See the [homework page](homework/README.md).
+
 ## Schedule (tentative)
 |Period|Topics|Remark|
 |------|------|------|
