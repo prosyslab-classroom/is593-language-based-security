@@ -40,7 +40,7 @@ The late homework policy is as follows:
 
 ## Project
 Students will propose their own project topics in the middle of the semester
-and present their final results at the end.
+and present their final results at the end. The detailed notice will be announced after the mid term exam.
 
 ## Schedule (tentative)
 |#|Topics|Reading|
