@@ -29,7 +29,7 @@ Students will use the [OCaml](https://ocaml.org) programming language for the as
 
 All submissions will be managed using Github.
 For each assignment, a unique invitation URL for Github Classroom will be posted at [KLMS](http://klms.kaist.ac.kr).
-Once you accept the invitation, a priviate repository for your assignment will be created.
+Once you accept the invitation, a private repository for your assignment will be created.
 You can push as many commits as you want before the deadline. We will grade the final commit of your `master` branch.
 
 The late homework policy is as follows:
