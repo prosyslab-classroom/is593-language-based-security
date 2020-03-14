@@ -47,8 +47,8 @@ and present their final results at the end. The detailed notice will be announce
 |#|Topics|Reading|
 |------|------|------|
 |1|[Introduction](slides/lecture1.pdf)|[Chap. 1]|
-|2|Formal Semantics of Programming Languages (1): Operational Semantics||
-|3|Formal Semantics of Programming Languages (2): Denotational Semantics||
+|2|[Operational Semantics](slides/lecture2.pdf)||
+|3|Denotational Semantics||
 |4|Concepts in Language-based Security|[Chap. 2]|
 |5|Abstract Interpretation (1)|[Chap. 3]|
 |6|Abstract Interpretation (2)|[Chap. 4]|
