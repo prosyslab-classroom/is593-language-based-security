@@ -43,6 +43,9 @@ The late homework policy is as follows:
 Students will propose their own project topics in the middle of the semester
 and present their final results at the end. The detailed notice will be announced after the mid term exam.
 
+## Academic Integrity Violation
+Students who violates academic integrity will get F.
+
 ## Schedule (tentative)
 |#|Topics|Reading|
 |------|------|------|
