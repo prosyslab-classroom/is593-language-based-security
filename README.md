@@ -1,7 +1,8 @@
 # IS593: Language-based Security
 
 ## Logistics
-- Instructor: [Kihong Heo](https://kihongheo.kaist.ac.kr)
+- Instructor: [Kihong Heo](https://kihongheo.kaist.ac.kr) (kihong.heo@kaist.ac.kr)
+- TAs: Changhoon Song (songch@kaist.ac.kr) , Hyunsoo Shin (hyunsooda@kaist.ac.kr)
 - Time: Mon/Wed 09:00 - 10:30
 - Office hour: Mon 10:30 - 11:30, N5 #2321
 - Location: N1 #114
@@ -45,7 +46,7 @@ and present their final results at the end. The detailed notice will be announce
 ## Schedule (tentative)
 |#|Topics|Reading|
 |------|------|------|
-|1|Introduction|[Chap. 1]|
+|1|[Introduction](slides/lecture1.pdf)|[Chap. 1]|
 |2|Formal Semantics of Programming Languages (1): Operational Semantics||
 |3|Formal Semantics of Programming Languages (2): Denotational Semantics||
 |4|Concepts in Language-based Security|[Chap. 2]|
