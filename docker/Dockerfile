@@ -23,9 +23,9 @@ RUN opam init --compiler=$OCAML_VERSION --disable-sandboxing && \
     eval $(opam env) && \
     opam install dune llvm ounit
 
-RUN echo "$(opam env)" >> ~/.bashrc
 RUN sudo adduser student sudo
 RUN echo "root:1234" | chpasswd
 RUN echo "student:1234" | chpasswd
 USER student
+RUN echo "$(opam env)" >> ~/.bashrc
 WORKDIR $HOME
