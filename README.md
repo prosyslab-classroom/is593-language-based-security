@@ -24,7 +24,8 @@ This course teaches a series of topics to build safe software systems based on p
 This course includes programming assignments through which students will learn how to design
 and implement program analyzers.
 We will use Github/Github Classroom to provide skeleton code and manage submissions.
-Make sure you have a Github account and get familiar with `git`.
+Make sure you have a Github account and get the [student developer pack benefits](https://education.github.com/pack).
+Moreover, student should get familiar with `git`.
 If you are new to `git`, see this [book](https://git-scm.com/book/en/v2).
 Students will use the [OCaml](https://ocaml.org) programming language for the assignments.
 
