@@ -50,7 +50,7 @@ Students who violates academic integrity will get an F.
 ## Schedule (tentative)
 |#|Topics|Reading|
 |------|------|------|
-|O|[Functional Programming in OCaml](slides/lectureO.pdf)||
+|0|[Functional Programming in OCaml](slides/lecture0.pdf)||
 |1|[Introduction](slides/lecture1.pdf)|[Chap. 1]|
 |2|[Operational Semantics](slides/lecture2.pdf)||
 |3|[Denotational Semantics](slides/lecture3.pdf)||
