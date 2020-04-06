@@ -55,16 +55,15 @@ Students who violates academic integrity will get an F.
 |2|[Operational Semantics](slides/lecture2.pdf)||
 |3|[Denotational Semantics](slides/lecture3.pdf)||
 |4|[Concepts in Language-based Security](slides/lecture4.pdf)|[Chap. 2], [Chap. 9]||
-|5|Abstract Interpretation (1)|[Chap. 3]|
-|6|Abstract Interpretation (2)|[Chap. 4]|
-|7|Design and Implementation of Static Analysis||
+|5|[Abstract Interpretation](slides/lecture5.pdf)|[Chap. 3], [Chap. 4]|
+|6|Design and Implementation of Static Analysis||
+|7|Static Analysis for Advanced Programming Features|[Chap. 8.1], [Chap. 8.2]|
 |8|Midterm Exam||
-|9|Static Analysis for Advanced Programming Features|[Chap. 8.1], [Chap. 8.2]|
-|10|Advanced Static Analysis Techniques (1): Iteration Techniques|[Chap. 5.2]|
-|11|Advanced Static Analysis Techniques (2): Sparse Analysis|[Chap. 5.3], [[PLDI12](https://dl.acm.org/doi/abs/10.1145/2254064.2254092)]|
-|12|Advanced Static Analysis Techniques (3): Modular Analysis|[Chap. 5.4], [[InferBo](https://research.fb.com/blog/2017/02/inferbo-infer-based-buffer-overrun-analyzer/)]|
-|13|New Wave in Language-based Security (1): Program Analysis with AI|[[PLDI18](https://dl.acm.org/doi/10.1145/3192366.3192417)], [[PLDI19](https://dl.acm.org/doi/10.1145/3314221.3314616)], [[ICSE19](https://dl.acm.org/doi/10.1109/ICSE.2019.00027)]|
-|14|New Wave in Language-based Security (2): Program Debloating|[[CCS17](https://dl.acm.org/doi/10.1145/3243734.3243838)]|
-|15|New Wave in Language-based Security (3): Program Synthesis|[[PLDI18](https://dl.acm.org/doi/10.1145/3296979.3192410)], [[IJCAI19](https://www.ijcai.org/Proceedings/2019/0847.pdf)]|
-|16|Project Presentation||
-|17|Final Exam||
+|9|Advanced Static Analysis Techniques (1): Iteration Techniques|[Chap. 5.2]|
+|10|Advanced Static Analysis Techniques (2): Sparse Analysis|[Chap. 5.3], [[PLDI12](https://dl.acm.org/doi/abs/10.1145/2254064.2254092)]|
+|11|Advanced Static Analysis Techniques (3): Modular Analysis|[Chap. 5.4], [[InferBo](https://research.fb.com/blog/2017/02/inferbo-infer-based-buffer-overrun-analyzer/)]|
+|12|New Wave in Language-based Security (1): Program Analysis with AI|[[PLDI18](https://dl.acm.org/doi/10.1145/3192366.3192417)], [[PLDI19](https://dl.acm.org/doi/10.1145/3314221.3314616)], [[ICSE19](https://dl.acm.org/doi/10.1109/ICSE.2019.00027)]|
+|13|New Wave in Language-based Security (2): Program Debloating|[[CCS17](https://dl.acm.org/doi/10.1145/3243734.3243838)]|
+|14|New Wave in Language-based Security (3): Program Synthesis|[[PLDI18](https://dl.acm.org/doi/10.1145/3296979.3192410)], [[IJCAI19](https://www.ijcai.org/Proceedings/2019/0847.pdf)]|
+|15|Project Presentation||
+|16|Final Exam||
