@@ -56,7 +56,7 @@ Students who violates academic integrity will get an F.
 |3|[Denotational Semantics](slides/lecture3.pdf)|||
 |4|[Concepts in Language-based Security](slides/lecture4.pdf)|[Chap. 2], [Chap. 9]|HW2: SmaLLVM Interpreter|
 |5|[Abstract Interpretation](slides/lecture5.pdf)|[Chap. 3]|
-|6|Design and Implementation of Static Analysis|[Chap. 4]|HW3: SmaLLVM Analyzer|
+|6|[Design and Implementation of Static Analysis](slides/lecture6.pdf)|[Chap. 4]|HW3: SmaLLVM Analyzer|
 |7|Static Analysis for Advanced Programming Features|[Chap. 8.1], [Chap. 8.2]|
 |8|Midterm Exam||
 |9|Advanced Static Analysis Techniques (1):<br>Iteration Techniques|[Chap. 5.2]|
