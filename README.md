@@ -11,10 +11,10 @@
 This course teaches a series of topics to build safe software systems based on programming language theories and techniques. The course covers formal semantics of programming languages and state-of-the-art techniques to formally estimate software behavior to prevent security vulnerabilities beforehand. In addition, the course introduces new waves in language-based security, thereby encouraging students to imagine and realize secure and reliable programming systems.
 
 ## Grading
-- Homework: 30%
+- Homework: 50%
 - Project: 30%
-- Midterm: 30%
-- Final: 10%
+- Midterm: 0% (due to the COVID-19 outbreak)
+- Final: 20%
 
 ## Textbook
 - Lecture slides will be provided
