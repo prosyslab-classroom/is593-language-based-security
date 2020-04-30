@@ -21,7 +21,7 @@ RUN $SCRIPT/install-llvm-toolchain.sh
 RUN opam init --compiler=$OCAML_VERSION --disable-sandboxing && \
     opam switch create $IS593_OPAM_SWITCH $OCAML_VERSION && \
     eval $(opam env) && \
-    opam install dune llvm ounit
+    opam install dune llvm.9.0.0 ounit
 
 RUN sudo adduser student sudo
 RUN echo "root:1234" | chpasswd
