@@ -43,7 +43,17 @@ The late homework policy is as follows:
 ## Project
 Students will propose their own project topics in the middle of the semester
 and present their final results at the end. The detailed notice will be announced after the mid term exam.
-
+- Security
+  - [API Misuse Detection](https://www.usenix.org/system/files/conference/usenixsecurity16/sec16_paper_yun.pdf)
+  - [Side-channel Attack Detection](https://dl.acm.org/doi/10.1145/3314221.3314647)
+  - [Android Malware Detection](https://dl.acm.org/doi/10.1145/2594291.2594299)
+  - [Smart Contract Program Analysis](https://arxiv.org/pdf/1908.11227.pdf)
+- Software Engineering
+  - [Code Clone Detection[(https://dl.acm.org/doi/10.1145/1985793.1985835)
+- Operating Systems
+  - [Filesystem Bug Detection](https://dl.acm.org/doi/10.1145/2815400.2815422)
+  - [Linux Kernel Malicious Extension Detection](https://dl.acm.org/doi/10.1145/3314221.3314590)
+  
 ## Academic Integrity Violation
 Students who violates academic integrity will get an F.
 
