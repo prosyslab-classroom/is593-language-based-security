@@ -43,7 +43,7 @@ The late homework policy is as follows:
 ## Project
 Students will propose their own project topics in the middle of the semester
 and present their final results at the end. See the [guidelines](slides/project.pdf) for the details.
-Here are a selected list of research papers that use static analysis for interesting problems in different area.
+Here are a selected list of research papers that use static analysis for interesting problems in different area:
 - Security
   - [API Misuse Detection](https://www.usenix.org/system/files/conference/usenixsecurity16/sec16_paper_yun.pdf)
   - [Side-channel Attack Detection](https://dl.acm.org/doi/10.1145/3314221.3314647)
@@ -54,7 +54,9 @@ Here are a selected list of research papers that use static analysis for interes
 - Operating Systems
   - [Filesystem Bug Detection](https://dl.acm.org/doi/10.1145/2815400.2815422)
   - [Linux Kernel Malicious Extension Detection](https://dl.acm.org/doi/10.1145/3314221.3314590)
-  
+- Architecture
+  - [Cache Behavior Analysis](https://dl.acm.org/doi/10.1145/3290367)
+
 ## Academic Integrity Violation
 Students who violates academic integrity will get an F.
 
