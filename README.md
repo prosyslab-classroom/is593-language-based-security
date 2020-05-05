@@ -49,6 +49,7 @@ Here are a selected list of research papers that use static analysis for interes
   - [Side-channel Attack Detection](https://dl.acm.org/doi/10.1145/3314221.3314647)
   - [Android Malware Detection](https://dl.acm.org/doi/10.1145/2594291.2594299)
   - [Smart Contract Program Analysis](https://arxiv.org/pdf/1908.11227.pdf)
+  - [Web Security Analysis](https://www.ndss-symposium.org/ndss2014/programme/simulation-built-php-features-precise-static-code-analysis/)
 - Software Engineering
   - [Code Clone Detection](https://dl.acm.org/doi/10.1145/1985793.1985835)
 - Operating Systems
