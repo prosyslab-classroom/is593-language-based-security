@@ -45,6 +45,7 @@ Students will propose their own project topics in the middle of the semester
 and present their final results at the end. See the [guidelines](slides/project.pdf) for the details.
 Here are a selected list of research papers that use static analysis for interesting problems in different area:
 - Security
+  - [Airbus Controller SW Verification](https://dl.acm.org/doi/abs/10.1145/781131.781153)
   - [API Misuse Detection](https://www.usenix.org/system/files/conference/usenixsecurity16/sec16_paper_yun.pdf)
   - [Side-channel Attack Detection](https://dl.acm.org/doi/10.1145/3314221.3314647)
   - [Android Malware Detection](https://dl.acm.org/doi/10.1145/2594291.2594299)
