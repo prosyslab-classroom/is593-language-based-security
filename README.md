@@ -59,6 +59,9 @@ Here are a selected list of research papers that use static analysis for interes
 - Architecture
   - [Cache Behavior Analysis](https://dl.acm.org/doi/10.1145/3290367)
 
+This [tool](https://github.com/travitch/whole-program-llvm) will be useful when you run your LLVM analyzer
+for realword programs.
+
 ## Academic Integrity Violation
 Students who violates academic integrity will get an F.
 
