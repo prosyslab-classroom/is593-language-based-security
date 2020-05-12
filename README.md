@@ -78,7 +78,7 @@ Students who violates academic integrity will get an F.
 |7|[Static Analysis for Advanced Programming Features](slides/lecture7.pdf)|[Chap. 8.1], [Chap. 8.2]|
 |-|<s>Midterm Exam</s>||HW4 : ThriLLVM Analyzer|
 |8|[Advanced Static Analysis Techniques (1):<br>Iteration Techniques](slides/lecture8.pdf)|[Chap. 5.2]|
-|9|Advanced Static Analysis Techniques (2):<br>Sparse Analysis|[Chap. 5.3], [[PLDI12](https://dl.acm.org/doi/abs/10.1145/2254064.2254092)]|
+|9|[Advanced Static Analysis Techniques (2):<br>Sparse Analysis](slides/lecture9.pdf)|[Chap. 5.3], [[PLDI12](https://dl.acm.org/doi/abs/10.1145/2254064.2254092)]|
 |10|Advanced Static Analysis Techniques (3):<br>Modular Analysis|[Chap. 5.4], [[InferBo](https://research.fb.com/blog/2017/02/inferbo-infer-based-buffer-overrun-analyzer/)]|
 |11|New Wave in Language-based Security (1):<br>Program Analysis with AI|[[PLDI18](https://dl.acm.org/doi/10.1145/3192366.3192417)], [[PLDI19](https://dl.acm.org/doi/10.1145/3314221.3314616)], [[ICSE19](https://dl.acm.org/doi/10.1109/ICSE.2019.00027)]|
 |12|New Wave in Language-based Security (2):<br>Program Debloating|[[CCS17](https://dl.acm.org/doi/10.1145/3243734.3243838)]|
