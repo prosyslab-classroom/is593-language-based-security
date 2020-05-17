@@ -84,5 +84,5 @@ Students who violates academic integrity will get an F.
 |12|New Wave in Language-based Security (1):<br>Program Analysis with AI|[[PLDI18](https://dl.acm.org/doi/10.1145/3192366.3192417)], [[PLDI19](https://dl.acm.org/doi/10.1145/3314221.3314616)], [[ICSE19](https://dl.acm.org/doi/10.1109/ICSE.2019.00027)]|
 |13|New Wave in Language-based Security (2):<br>Program Debloating|[[TSE2002](https://dl.acm.org/doi/10.1109/32.988498)], [[ICSE18](https://dl.acm.org/doi/abs/10.1145/3180155.3180236)], [[CCS18](https://dl.acm.org/doi/10.1145/3243734.3243838)]|
 |14|New Wave in Language-based Security (3):<br>Program Synthesis|[[Book](https://www.microsoft.com/en-us/research/wp-content/uploads/2017/10/program_synthesis_now.pdf)], [[PLDI18](https://dl.acm.org/doi/10.1145/3296979.3192410)], [[IJCAI19](https://www.ijcai.org/Proceedings/2019/0847.pdf)]|
-|-|Project Presentation||
+|-|Project Presentation (6/17, 6/22, 6/24)||
 |-|Final Exam||
