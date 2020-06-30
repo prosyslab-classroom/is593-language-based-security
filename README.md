@@ -69,20 +69,20 @@ Students who violates academic integrity will get an F.
 |#|Topics|Reading|Homework|
 |-|------|-------|--------|
 |0|[Functional Programming in OCaml](slides/lecture0.pdf)||
-|1|[Introduction](slides/lecture1.pdf) [<img src="icons/youtube.png" width="16" />](https://youtu.be/gyj4fhyJPS0) |[Chap. 1]|HW0: Hello-world|
-|2|[Operational Semantics](slides/lecture2.pdf) [<img src="icons/youtube.png" width="16" />](https://youtu.be/q1k_sxs3Q9c)||HW1: OCaml Programming|
+|1|[Introduction](slides/lecture1.pdf) [<img src="icons/youtube.png" width="16" />](https://youtu.be/gyj4fhyJPS0) |[Chap. 1]|[<img src="icons/github-classroom.png" width="16" />HW0: Hello-world](https://classroom.github.com/a/44eaPjC4)|
+|2|[Operational Semantics](slides/lecture2.pdf) [<img src="icons/youtube.png" width="16" />](https://youtu.be/q1k_sxs3Q9c)||[<img src="icons/github-classroom.png" width="16" />HW1: OCaml Programming](https://classroom.github.com/a/rvf_2XD7)|
 |3|[Denotational Semantics](slides/lecture3.pdf)|||
-|4|[Concepts in Language-based Security](slides/lecture4.pdf)|[Chap. 2], [Chap. 9]|HW2: SmaLLVM Interpreter|
+|4|[Concepts in Language-based Security](slides/lecture4.pdf)|[Chap. 2], [Chap. 9]|[<img src="icons/github-classroom.png" width="16" />HW2: SmaLLVM Interpreter](https://classroom.github.com/a/oCh53sTk)|
 |5|[Abstract Interpretation](slides/lecture5.pdf)|[Chap. 3]|
-|6|[Design and Implementation of Static Analysis](slides/lecture6.pdf)|[Chap. 4]|HW3: SmaLLVM Analyzer|
+|6|[Design and Implementation of Static Analysis](slides/lecture6.pdf)|[Chap. 4]|[<img src="icons/github-classroom.png" width="16" />HW3: SmaLLVM Analyzer](https://classroom.github.com/a/ZqvcX99C)|
 |7|[Static Analysis for Advanced Programming Features](slides/lecture7.pdf)|[Chap. 8.1], [Chap. 8.2]|
-|-|<s>Midterm Exam</s>||HW4 : ThriLLVM Analyzer|
+|-|<s>Midterm Exam</s>||[<img src="icons/github-classroom.png" width="16" />HW4 : ThriLLVM Analyzer](https://classroom.github.com/a/dMRQMGGb)|
 |8|[Advanced Static Analysis Techniques (1):<br>Iteration Techniques](slides/lecture8.pdf)|[Chap. 5.2]|
 |9|[Advanced Static Analysis Techniques (2):<br>Sparse Analysis](slides/lecture9.pdf)|[Chap. 5.3], [[PLDI12](https://dl.acm.org/doi/abs/10.1145/2254064.2254092)]|
 |10|[Advanced Static Analysis Techniques (3):<br>Selective X-sensitivity](slides/lecture10.pdf)|[[PLDI14](https://dl.acm.org/doi/10.1145/2594291.2594318)]||
 |11|[Advanced Static Analysis Techniques (4):<br>Modular Analysis](slides/lecture11.pdf)|[Chap. 5.4], [[InferBo](https://research.fb.com/blog/2017/02/inferbo-infer-based-buffer-overrun-analyzer/)]|
 |12|[New Wave in Language-based Security (1):<br>Program Analysis with AI](slides/lecture12.pdf)|[[PLDI18](https://dl.acm.org/doi/10.1145/3192366.3192417)], [[PLDI19](https://dl.acm.org/doi/10.1145/3314221.3314616)], [[ICSE19](https://dl.acm.org/doi/10.1109/ICSE.2019.00027)]|
-|13|[New Wave in Language-based Security (2):<br>Program Debloating](slides/lecture13.pdf)|[[TSE2002](https://dl.acm.org/doi/10.1109/32.988498)], [[ICSE18](https://dl.acm.org/doi/abs/10.1145/3180155.3180236)], [[CCS18](https://dl.acm.org/doi/10.1145/3243734.3243838)]|HW5: ThriLLVM Debloater|
-|14|[New Wave in Language-based Security (3):<br>Program Synthesis](slides/lecture14.pdf)|[[Book](https://www.microsoft.com/en-us/research/wp-content/uploads/2017/10/program_synthesis_now.pdf)], [[PLDI18](https://dl.acm.org/doi/10.1145/3296979.3192410)], [[IJCAI19](https://www.ijcai.org/Proceedings/2019/0847.pdf)]|HW6: SmaLLVM Synthesizer|
+|13|[New Wave in Language-based Security (2):<br>Program Debloating](slides/lecture13.pdf)|[[TSE2002](https://dl.acm.org/doi/10.1109/32.988498)], [[ICSE18](https://dl.acm.org/doi/abs/10.1145/3180155.3180236)], [[CCS18](https://dl.acm.org/doi/10.1145/3243734.3243838)]|[<img src="icons/github-classroom.png" width="16" />HW5: ThriLLVM Debloater](https://classroom.github.com/a/EkKjhwGn)|
+|14|[New Wave in Language-based Security (3):<br>Program Synthesis](slides/lecture14.pdf)|[[Book](https://www.microsoft.com/en-us/research/wp-content/uploads/2017/10/program_synthesis_now.pdf)], [[PLDI18](https://dl.acm.org/doi/10.1145/3296979.3192410)], [[IJCAI19](https://www.ijcai.org/Proceedings/2019/0847.pdf)]|[<img src="icons/github-classroom.png" width="16" />HW6: SmaLLVM Synthesizer](https://classroom.github.com/a/SsJkpNVU)|
 |-|Project Presentation (6/17, 6/22, 6/24)||
 |-|Final Exam||
